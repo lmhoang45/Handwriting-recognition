@@ -4,8 +4,7 @@ the first one create_model.py is to create and save the model in .pt file to a d
 The second one handwriting_mnist.py would call the .pt model and predict the input image captured from the camera. \
 Prediction output will be showed on the terminal.\
 MNIST dataset is used (http://yann.lecun.com/exdb/mnist/)  \
-\
-When run handwriting_mnist.py: press 'a' to capture the image from the camera and 'z' to exit the program
+When run handwriting_mnist.py: press 'a' to capture the image from the camera and 'z' to exit the program.  \  
 \
 ![alt get](https://github.com/lmhoang45/Handwriting-recognition/blob/master/hinh.jpg)  
 
