@@ -6,8 +6,12 @@ Prediction output will be showed on the terminal.\
 MNIST dataset is used (http://yann.lecun.com/exdb/mnist/)  \
 \
 \
-![alt get](https://github.com/lmhoang45/Handwriting-recognition/blob/master/hinh.jpg)
+![alt get](https://github.com/lmhoang45/Handwriting-recognition/blob/master/hinh.jpg)  
 
+
+# Prerequisites
+Required frameworks and libraries:
+torch - torchvision - matplotlib - numpy - cv2 - scipy - pylab - skimage
 
 # Reference
 https://github.com/pytorch/examples/blob/master/mnist/main.py
